@@ -4,7 +4,7 @@ Camera intrinsics and distortion for Kinect V2 sensor
 I just want to store it somewhere so I don't have to redo the calibration again, so I might as well make it public.   
 I couldn't find this info anywhere online, so if this can save someone the hassle of going through the calibration process, you're welcome.
 
-This was generated using GML Camera Calibration Toolbox I found here:  
+This was generated using the GML Camera Calibration Toolbox I found here:  
 https://library.vuforia.com/content/vuforia-library/en/articles/Solution/external-camera-calibration.html
 
 58 images used, one A4 template
