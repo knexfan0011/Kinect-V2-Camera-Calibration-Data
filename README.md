@@ -7,7 +7,7 @@ I couldn't find this info anywhere online, so if this can save someone the hassl
 This was generated using the GML Camera Calibration Toolbox I found here:  
 https://library.vuforia.com/content/vuforia-library/en/articles/Solution/external-camera-calibration.html
 
-NOTE: Calibration will vary between units, so if you need accurate calibration you need to do it yourself. If you only need something that's close enough, this should work fine though.
+NOTE: Perfect calibration values will vary between units, so if you need accurate calibration you need to do it yourself. If you only need something that's close enough, this should work fine though.
 
 58 images used, one A4 template
 
